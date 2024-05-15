@@ -1,0 +1,105 @@
+PODS:
+  - cometchat_calls_sdk (4.0.7):
+    - CometChatCallsSDK (= 4.0.5)
+    - Flutter
+  - cometchat_calls_uikit (4.2.1):
+    - Flutter
+  - cometchat_chat_uikit (4.4.0):
+    - Flutter
+  - cometchat_sdk (4.0.10):
+    - CometChatSDK (= 4.0.45)
+    - Flutter
+  - cometchat_uikit_shared (4.3.0):
+    - Flutter
+  - CometChatCallsSDK (4.0.5):
+    - CometChatWebRTC (= 1.106.1)
+  - CometChatSDK (4.0.45)
+  - CometChatWebRTC (1.106.1)
+  - Flutter (1.0.0)
+  - image_picker_ios (0.0.1):
+    - Flutter
+  - package_info_plus (0.4.5):
+    - Flutter
+  - path_provider_foundation (0.0.1):
+    - Flutter
+    - FlutterMacOS
+  - url_launcher_ios (0.0.1):
+    - Flutter
+  - video_player_avfoundation (0.0.1):
+    - Flutter
+    - FlutterMacOS
+  - wakelock_plus (0.0.1):
+    - Flutter
+  - webview_flutter_wkwebview (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - cometchat_calls_sdk (from `.symlinks/plugins/cometchat_calls_sdk/ios`)
+  - cometchat_calls_uikit (from `.symlinks/plugins/cometchat_calls_uikit/ios`)
+  - cometchat_chat_uikit (from `.symlinks/plugins/cometchat_chat_uikit/ios`)
+  - cometchat_sdk (from `.symlinks/plugins/cometchat_sdk/ios`)
+  - cometchat_uikit_shared (from `.symlinks/plugins/cometchat_uikit_shared/ios`)
+  - Flutter (from `Flutter`)
+  - image_picker_ios (from `.symlinks/plugins/image_picker_ios/ios`)
+  - package_info_plus (from `.symlinks/plugins/package_info_plus/ios`)
+  - path_provider_foundation (from `.symlinks/plugins/path_provider_foundation/darwin`)
+  - url_launcher_ios (from `.symlinks/plugins/url_launcher_ios/ios`)
+  - video_player_avfoundation (from `.symlinks/plugins/video_player_avfoundation/darwin`)
+  - wakelock_plus (from `.symlinks/plugins/wakelock_plus/ios`)
+  - webview_flutter_wkwebview (from `.symlinks/plugins/webview_flutter_wkwebview/ios`)
+
+SPEC REPOS:
+  trunk:
+    - CometChatCallsSDK
+    - CometChatSDK
+    - CometChatWebRTC
+
+EXTERNAL SOURCES:
+  cometchat_calls_sdk:
+    :path: ".symlinks/plugins/cometchat_calls_sdk/ios"
+  cometchat_calls_uikit:
+    :path: ".symlinks/plugins/cometchat_calls_uikit/ios"
+  cometchat_chat_uikit:
+    :path: ".symlinks/plugins/cometchat_chat_uikit/ios"
+  cometchat_sdk:
+    :path: ".symlinks/plugins/cometchat_sdk/ios"
+  cometchat_uikit_shared:
+    :path: ".symlinks/plugins/cometchat_uikit_shared/ios"
+  Flutter:
+    :path: Flutter
+  image_picker_ios:
+    :path: ".symlinks/plugins/image_picker_ios/ios"
+  package_info_plus:
+    :path: ".symlinks/plugins/package_info_plus/ios"
+  path_provider_foundation:
+    :path: ".symlinks/plugins/path_provider_foundation/darwin"
+  url_launcher_ios:
+    :path: ".symlinks/plugins/url_launcher_ios/ios"
+  video_player_avfoundation:
+    :path: ".symlinks/plugins/video_player_avfoundation/darwin"
+  wakelock_plus:
+    :path: ".symlinks/plugins/wakelock_plus/ios"
+  webview_flutter_wkwebview:
+    :path: ".symlinks/plugins/webview_flutter_wkwebview/ios"
+
+SPEC CHECKSUMS:
+  cometchat_calls_sdk: a8c7de940044cf04878986e14d64d06f0ad1f5fe
+  cometchat_calls_uikit: 34b02fd90aa27613cb954af177175b9a862ccac3
+  cometchat_chat_uikit: efb65abd562bd43ee396a3f417d03feb627b3108
+  cometchat_sdk: 6bd6f478c495948760edc340d946d738613c07b5
+  cometchat_uikit_shared: 6d85a7fd9fad059b9e4effa5f89b9f203a51cf3b
+  CometChatCallsSDK: 3493c18191f39f80eeecd34b4f9cd2a4733a5954
+  CometChatSDK: a3142f088732a3cc13652ac8e582f006ca2c0e35
+  CometChatWebRTC: c08f446967168f6de442b48b824623411651dbb5
+  Flutter: e0871f40cf51350855a761d2e70bf5af5b9b5de7
+  image_picker_ios: c560581cceedb403a6ff17f2f816d7fea1421fc1
+  package_info_plus: 58f0028419748fad15bf008b270aaa8e54380b1c
+  path_provider_foundation: 2b6b4c569c0fb62ec74538f866245ac84301af46
+  url_launcher_ios: 5334b05cef931de560670eeae103fd3e431ac3fe
+  video_player_avfoundation: 7c6c11d8470e1675df7397027218274b6d2360b3
+  wakelock_plus: 78ec7c5b202cab7761af8e2b2b3d0671be6c4ae1
+  webview_flutter_wkwebview: be0f0d33777f1bfd0c9fdcb594786704dbf65f36
+
+PODFILE CHECKSUM: 8fe78813060930f59cdbaf70ae39e675a50ba4b0
+
+COCOAPODS: 1.15.2
