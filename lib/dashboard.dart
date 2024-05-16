@@ -132,44 +132,44 @@ class _DashboardState extends State<Dashboard> {
                   );
                 },
               ),
-              ModuleCard(
-                title: "Shared",
-                leading: Image.asset(
-                  'assets/icons/review.png',
-                  height: 48,
-                  width: 48,
-                ),
-                description:
-                    "Shared module contains several reusable components that are divided into Resources and Views.\n"
-                    "Resources are components that enhance some visual and functional aspect of a component  "
-                    "and Views are core UI components which can collectively form a larger UI component\n"
-                    "To explore the available components tap here\n",
-                onTap: () {
-                  Navigator.push(
-                    context,
-                    MaterialPageRoute(
-                        builder: (context) => const SharedDashboard()),
-                  );
-                },
-              ),
-              ModuleCard(
-                title: "Calls",
-                leading: Image.asset(
-                  'assets/icons/calling.png',
-                  height: 48,
-                  width: 48,
-                ),
-                description:
-                    "Calls module contains all available components involving Call objects\n"
-                    "To explore the available components tap here\n",
-                onTap: () {
-                  Navigator.push(
-                    context,
-                    MaterialPageRoute(
-                        builder: (context) => const CallsDashboard()),
-                  );
-                },
-              ),
+              // ModuleCard(
+              //   title: "Shared",
+              //   leading: Image.asset(
+              //     'assets/icons/review.png',
+              //     height: 48,
+              //     width: 48,
+              //   ),
+              //   description:
+              //       "Shared module contains several reusable components that are divided into Resources and Views.\n"
+              //       "Resources are components that enhance some visual and functional aspect of a component  "
+              //       "and Views are core UI components which can collectively form a larger UI component\n"
+              //       "To explore the available components tap here\n",
+              //   onTap: () {
+              //     Navigator.push(
+              //       context,
+              //       MaterialPageRoute(
+              //           builder: (context) => const SharedDashboard()),
+              //     );
+              //   },
+              // ),
+              // ModuleCard(
+              //   title: "Calls",
+              //   leading: Image.asset(
+              //     'assets/icons/calling.png',
+              //     height: 48,
+              //     width: 48,
+              //   ),
+              //   description:
+              //       "Calls module contains all available components involving Call objects\n"
+              //       "To explore the available components tap here\n",
+              //   onTap: () {
+              //     Navigator.push(
+              //       context,
+              //       MaterialPageRoute(
+              //           builder: (context) => const CallsDashboard()),
+              //     );
+              //   },
+              // ),
               ModuleCard(
                 title: "Call Logs",
                 leading: Image.asset(
